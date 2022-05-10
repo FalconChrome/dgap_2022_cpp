@@ -1,0 +1,3 @@
+/home/potop/code/MIPT code/Term 2 (C++ basics)/bintrees/cmake-build-debug/CMakeFiles/bintrees.dir
+/home/potop/code/MIPT code/Term 2 (C++ basics)/bintrees/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/potop/code/MIPT code/Term 2 (C++ basics)/bintrees/cmake-build-debug/CMakeFiles/rebuild_cache.dir

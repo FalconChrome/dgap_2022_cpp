@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/opt/clion/bin/ninja/linux/ninja -G Ninja "/home/potop/code/MIPT code/Term 2 (C++ basics)/bintrees"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/potop/code/MIPT code/Term 2 (C++ basics)/bintrees/cmake-build-debug
