@@ -4,7 +4,9 @@ project(List)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(List
-        list.cpp
+#        double_list.cpp
+#        list.cpp
 #        stack.cpp
 #        main.cpp
+        query.cpp
         )
