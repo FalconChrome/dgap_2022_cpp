@@ -7,7 +7,7 @@ struct Node{
     Node *next;
 };
 
-struct List {
+struct DoubleList {
     unsigned size = 0;
     Node *head = nullptr;
     Node *tail = nullptr;
